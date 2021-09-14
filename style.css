@@ -42,3 +42,8 @@ width:200px;
     font-size: 23px;
     margin: 15px;
 }
+.play_button, .stop_button
+{
+    width:120px;
+    font-size: 25px;
+} 
